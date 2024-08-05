@@ -1,5 +1,5 @@
 base_url = "https://Pikman1210.github.io/"
-title = "not-matthias"
+title = "Pikman1210's Site"
 description = "This is an example description"
 build_search_index = true
 generate_feeds = true
@@ -28,7 +28,7 @@ mathjax_dollar_inline_enable = true
 repo_url = "https://github.com/not-matthias/apollo/tree/main/content"
 
 menu = [
-  # Configure menu bar here
+  { name = "Posts", url = "/posts", weight = 1 },
 ]
 socials = [
     { name = "youtube", url = "https://www.youtube.com/@pikman1210", icon = "youtube" },
