@@ -35,7 +35,7 @@ menu = [
 ]
 socials = [
     { name = "youtube", url = "https://www.youtube.com/@pikman1210", icon = "youtube" },
-    { name = "twitch", url = "https://www.twitch.tv/pikman1210", icon = "twitch" },
+    # { name = "twitch", url = "https://www.twitch.tv/pikman1210", icon = "twitch" },
     { name = "github", url = "https://github.com/pikman1210/", icon = "github" },
 ]
 
